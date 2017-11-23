@@ -28,6 +28,6 @@ We copy the index-win.exe to a Windows 10 machine (deployed over Virtualbox, sor
 
 Execute the .exe and try with your favorite (or existing) browser.
 
-<img src="run.png">
+<img src="test.png">
 
 Next Steps: Develop auto-content cross platform microservices without publish your source code.
